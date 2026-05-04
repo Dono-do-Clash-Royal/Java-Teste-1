@@ -26,11 +26,15 @@ public class App {
 
         João.getNomeCompleto();
         João.getIdade();
+        System.out.println("-----------------------------");
 
         Maria.getNomeCompleto();
         Maria.getIdade();
+        System.out.println("-----------------------------");
 
         familia1.getInfoEncEducacao();
         /*familia1.getInfoFamilia();*/
+        System.out.println("-----------------------------");
+
     }
 }
